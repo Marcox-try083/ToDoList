@@ -1,0 +1,16 @@
+
+#addtask{
+    transition: transform 0.3s ease boxshadow 0.s ease;
+}
+#addtask:hover{
+    transform: scale(1.06);
+    box-shadow: 0px 0px 10px 2px rgb(4, 131, 235);
+}
+#add{
+    transition: transform 0.3s ease boxshadow 0.s ease;
+}
+#add:hover{
+    transform: scale(1.06);
+    box-shadow: 0px 0px 10px 2px rgb(245, 245, 6);
+    
+}
